@@ -116,11 +116,11 @@ The dataset contains far fewer records for 2020 than for 2021. The **YoY growth 
 
 | Overview | Products |
 |---|---|
-| ![](screenshots/01_overview.png) | ![](screenshots/02_products.png) |
+| ![](screenshots/_overview.png) | ![](screenshots/_products.png) |
 
 | Sales Method | Geography |
 |---|---|
-| ![](screenshots/03_sales_method.png) | ![](screenshots/04_geography.png) |
+| ![](screenshots/_sales_method.png) | ![](screenshots/_geography.png) |
 
 ---
 
