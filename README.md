@@ -2,8 +2,7 @@
 
 An interactive Power BI dashboard analyzing Adidas sales in the United States (2020–2021) across products, sales channels, retailers, and geography.
 
-![Overview](screenshots/
-overview.png)
+![Overview](screenshots/_Overview.png)
 
 ---
 
